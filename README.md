@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abirshandilya07
 - 👀 I’m interested in Frontend Web Development,Python
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning app development in python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - Email:abirshandilya@gmail.com
 
